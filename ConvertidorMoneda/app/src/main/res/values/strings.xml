@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertidor de Moneda</string>
+    <string name="txtView1">Moneda actual</string>
+    <string name="plainTxt"> </string>
+    <string name="txtview2">Moneda a convertir</string>
+    <string name="boton">Convertir</string>
+    <string name="txtView3">Moneda actual</string>
+</resources>
